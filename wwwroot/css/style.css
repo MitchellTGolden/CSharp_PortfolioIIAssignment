@@ -1,0 +1,25 @@
+
+.greg{
+    text-align: center;
+}
+.info{
+    display: flex;
+    align-items: center;
+}
+.head{
+    text-align: center
+}
+.ContactForm{
+    display: flex;
+    text-align: center;
+    align-content: center;
+}
+.project{
+    display: flex;
+    align-items: center;
+}
+#projectBox{
+    text-align: center;
+    height: 100px;
+    overflow: auto;
+}
